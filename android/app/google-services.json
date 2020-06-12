@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086925112255",
+    "firebase_url": "https://pedefast-5c1b0.firebaseio.com",
+    "project_id": "pedefast-5c1b0",
+    "storage_bucket": "pedefast-5c1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086925112255:android:ee6994881a176ce86c570a",
+        "android_client_info": {
+          "package_name": "com.teknos.pedefast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086925112255-jq7csjqcvqpahgtkocdom8d3ddgjsnet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEL51fcTlgRVwItc31P29VAyYB8P2mLc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086925112255-jq7csjqcvqpahgtkocdom8d3ddgjsnet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
